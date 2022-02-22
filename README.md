@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Todo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run the Project
+
+```
+# clone the repo first
+$ git clone <repo.git>
+
+# Install all the dependencies
+$ npm install
+
+# Then run and don't close the process
+$ npm start
+```
+
+Then visit [http://localhost:3000](http://localhost:3000)
 
 ## Available Scripts
 
